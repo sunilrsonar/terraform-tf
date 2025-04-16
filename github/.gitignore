@@ -11,3 +11,5 @@
 *.tfplan
 *.tfplan.*
 *.tfignore
+*.lock.*
+*.terraform.lock.hcl
